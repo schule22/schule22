@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @schule22
-- 👀 I’m interested in ... console.log("learning to code"
-- 🌱 I’m currently learning ... console.log("JS")
+- 👀 I’m interested in ... console.log("learning to code");
+- 🌱 I’m currently learning ... console.log("JS");
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
